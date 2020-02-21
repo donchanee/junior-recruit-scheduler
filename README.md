@@ -91,7 +91,7 @@
   * [지그재그 트래픽](http://ppss.kr/archives/151825)
   * [지그재그 아웃스탠딩](http://outstanding.kr/zigzag20170123/)
 
-* [채용시까지] [8퍼센트 신입 개발자 채용](http://bit.ly/2M7dk2S)
+* [채용시까지] [8퍼센트 신입 개발자 채용](http://bit.ly/2M7dk2S) vv
   * [(참고자료) 박문수 이야기](https://brunch.co.kr/@leehosung/12)
   * [(참고자료) 잘가요 친구들](https://brunch.co.kr/@leehosung/22)
   * [(참고자료) 냉정과 열정사이](https://brunch.co.kr/@leehosung/34)
@@ -105,14 +105,14 @@
   * [Riiid 회사소개](https://riiid.co/ko/)
   * [프론트엔드 기술스택](https://apply.riiid.app/)
 
-* [채용시까지] [피플펀드 개발자 채용](https://bit.ly/2HhIKSm)
+* [채용시까지] [피플펀드 개발자 채용](https://bit.ly/2HhIKSm) vv
     * [기술 블로그](https://tech.peoplefund.co.kr/)
     * 지인 추천
       * 잡플래닛 평점 4.0
       * 사내 스터디 문화가 활발
       * 개발팀 문화가 좋아 대부분 좋은 회사로 이직 (쿠팡, 카카오 모빌리티, 카카오뱅크)
 
-* [채용시까지] [레이니스트 (뱅크샐러드) 전분야 채용](https://rainist.com/recruit/engineer)
+* [채용시까지] [레이니스트 (뱅크샐러드) 전분야 채용](https://rainist.com/recruit/engineer) vv
 * [채용시까지] 코멘토 신입 채용
     * [Front-end 개발자 채용](https://bit.ly/35KpLet)
     * [Back-end 개발자 채용](https://bit.ly/2PI48pA)
